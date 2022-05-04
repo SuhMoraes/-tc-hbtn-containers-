@@ -1,0 +1,38 @@
+O que são contêineres?
+ Os contêineres permitem que um aplicativo seja executado de forma consistente e confiável, 
+ independentemente do sistema operacional ou do ambiente de infraestrutura
+
+Para que se usa um contêiner?
+ Os contêineres representam o futuro da computação, juntamente com tecnologias como DevOps, 
+ nativo da nuvem, IA e machine learning.
+
+Quais são os benefícios dos contêineres?
+ Os benefícios são:
+ - Contêineres são leves
+ - Contêineres são portáteis
+ - Contêineres são escaláveis
+ - Contêineres podem ser econômicos
+ - Contêineres exigem que você gerencie menos infraestrutura
+ - Contêineres possibilitam foco
+ - Contêineres aceleram o desenvolvimento
+ - Contêineres desbloqueiam a arquitetura moderna
+
+Quais são os desafios dos contêineres?
+ Os desafios são: 
+ - Contêineres são relativamente novos
+ - Nem todos os serviços são conteinerizados
+ - Contêineres exigem mudanças no processo e nas habilidades
+ - A tecnologia está evoluindo com velocidade
+ - Contêineres não são uma solução mágica
+
+
+Quais as diferenças entre containers e máquinas virtuais (VMs) ?
+ Tanto contêineres como máquinas virtuais são "pacotes". O contêiner é um pacote que inclui seu 
+ aplicativo e tudo o que ele precisa para ser executado, exceto o sistema operacional. 
+ A máquina virtual é um pacote que inclui seu aplicativo e tudo o que ele precisa ser executado,
+ incluindo o próprio sistema operacional.
+
+Quais são as principais ferramentas e tecnologias de contêiner?
+ As principais ferramentas são:
+ - Docker 
+ - Kubernetes 
