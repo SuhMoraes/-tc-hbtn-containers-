@@ -3,19 +3,19 @@ O que são contêineres?
  independentemente do sistema operacional ou do ambiente de infraestrutura
 
 Para que se usa um contêiner?
- Os contêineres representam o futuro da computação, juntamente com tecnologias como DevOps, 
+ Os contêineres representam o futuro da computação, juntamente com aplicações  como DevOps, 
  nativo da nuvem, IA e machine learning.
 
 Quais são os benefícios dos contêineres?
- Os benefícios são:
- - Contêineres são leves
- - Contêineres são portáteis
- - Contêineres são escaláveis
- - Contêineres podem ser econômicos
- - Contêineres exigem que você gerencie menos infraestrutura
- - Contêineres possibilitam foco
- - Contêineres aceleram o desenvolvimento
- - Contêineres desbloqueiam a arquitetura moderna
+ Os benefícios são: Contêiners
+ - Contêiners são leves
+ - Contêiners são portáteis
+ - Contêiners são escaláveis
+ - Contêiners podem ser econômicos
+ - Contêiners exigem que você gerencie menos infraestrutura
+ - Contêiners possibilitam foco
+ - Contêiners aceleram o desenvolvimento
+ - Contêiners desbloqueiam a arquitetura moderna
 
 Quais são os desafios dos contêineres?
  Os desafios são: 
@@ -36,3 +36,4 @@ Quais são as principais ferramentas e tecnologias de contêiner?
  As principais ferramentas são:
  - Docker 
  - Kubernetes 
+ - Red Hat
